@@ -90,7 +90,6 @@ def main():
     # s = copy.shape
     # mask = np.zeros(s)
     # c = np.zeros(k)
-    #
     # for i in range(s[0]):
     #     for j in range(s[1]):
     #         for n in range(k):
