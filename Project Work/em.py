@@ -1,3 +1,8 @@
+'''
+Author: Omkar Acharya
+Course: CSC522 ALDA
+'''
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
